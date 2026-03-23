@@ -3,7 +3,9 @@
 import { useState, useMemo } from "react";
 import type { Claim, ClaimStatus } from "../types";
 import { useClaimMeta } from "../hooks/use-claim-meta";
+import { useAdmin } from "../hooks/use-admin";
 import { ClaimCard } from "./claim-card";
+import { LoginButton } from "./login-button";
 
 const STATUS_OPTIONS: { value: ClaimStatus | "all"; label: string }[] = [
   { value: "all", label: "All" },
@@ -19,6 +21,7 @@ const LOCATIONS = (claims: Claim[]) => {
 
 export function ClaimsDashboard({ claims }: { claims: Claim[] }) {
   const { getMeta, setStatus, setComment, loaded } = useClaimMeta();
+  const { isAdmin, login, logout, loaded: adminLoaded } = useAdmin();
   const [statusFilter, setStatusFilter] = useState<ClaimStatus | "all">("all");
   const [locationFilter, setLocationFilter] = useState("All Locations");
   const [search, setSearch] = useState("");
@@ -58,7 +61,7 @@ export function ClaimsDashboard({ claims }: { claims: Claim[] }) {
     return { open, inProgress, resolved, total: claims.length };
   }, [claims, getMeta]);
 
-  if (!loaded) {
+  if (!loaded || !adminLoaded) {
     return (
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="animate-pulse space-y-4">
@@ -72,6 +75,11 @@ export function ClaimsDashboard({ claims }: { claims: Claim[] }) {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+      {/* Admin bar */}
+      <div className="mb-6 flex items-center justify-end">
+        <LoginButton isAdmin={isAdmin} onLogin={login} onLogout={logout} />
+      </div>
+
       {/* Stats */}
       <div className="mb-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
         <StatCard label="Total" value={stats.total} color="text-foreground" />
@@ -163,6 +171,7 @@ export function ClaimsDashboard({ claims }: { claims: Claim[] }) {
             key={claim.id}
             claim={claim}
             meta={getMeta(claim.id)}
+            isAdmin={isAdmin}
             expanded={expandedId === claim.id}
             onToggle={() =>
               setExpandedId(expandedId === claim.id ? null : claim.id)

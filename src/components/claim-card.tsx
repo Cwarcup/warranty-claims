@@ -21,6 +21,7 @@ const STATUS_LABELS: Record<ClaimStatus, string> = {
 interface ClaimCardProps {
   claim: Claim;
   meta: ClaimMeta;
+  isAdmin: boolean;
   expanded: boolean;
   onToggle: () => void;
   onStatusChange: (status: ClaimStatus) => void;
@@ -30,6 +31,7 @@ interface ClaimCardProps {
 export function ClaimCard({
   claim,
   meta,
+  isAdmin,
   expanded,
   onToggle,
   onStatusChange,
@@ -109,72 +111,86 @@ export function ClaimCard({
                 <p className="text-sm">{claim.description}</p>
               </div>
 
-              {/* Status selector */}
+              {/* Status */}
               <div>
                 <p className="text-xs text-muted-foreground mb-1.5">Status</p>
-                <div className="flex gap-2">
-                  {(["open", "in-progress", "resolved"] as ClaimStatus[]).map(
-                    (s) => (
-                      <button
-                        key={s}
-                        onClick={() => onStatusChange(s)}
-                        className={`rounded-lg px-3 py-1.5 text-sm font-medium transition-colors ${
-                          meta.status === s
-                            ? STATUS_COLORS[s]
-                            : "bg-muted text-muted-foreground hover:text-foreground"
-                        }`}
-                      >
-                        {STATUS_LABELS[s]}
-                      </button>
-                    )
-                  )}
-                </div>
-              </div>
-
-              {/* Comment */}
-              <div>
-                <p className="text-xs text-muted-foreground mb-1.5">Notes</p>
-                {editingComment ? (
-                  <div className="space-y-2">
-                    <textarea
-                      value={commentDraft}
-                      onChange={(e) => setCommentDraft(e.target.value)}
-                      rows={3}
-                      className="w-full rounded-lg border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50 resize-y"
-                      placeholder="Add a note about this claim..."
-                      autoFocus
-                    />
-                    <div className="flex gap-2">
-                      <button
-                        onClick={() => {
-                          onCommentChange(commentDraft);
-                          setEditingComment(false);
-                        }}
-                        className="rounded-lg bg-accent px-3 py-1.5 text-sm font-medium text-accent-foreground hover:opacity-90"
-                      >
-                        Save
-                      </button>
-                      <button
-                        onClick={() => {
-                          setCommentDraft(meta.comment);
-                          setEditingComment(false);
-                        }}
-                        className="rounded-lg bg-muted px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground"
-                      >
-                        Cancel
-                      </button>
-                    </div>
+                {isAdmin ? (
+                  <div className="flex gap-2">
+                    {(["open", "in-progress", "resolved"] as ClaimStatus[]).map(
+                      (s) => (
+                        <button
+                          key={s}
+                          onClick={() => onStatusChange(s)}
+                          className={`rounded-lg px-3 py-1.5 text-sm font-medium transition-colors ${
+                            meta.status === s
+                              ? STATUS_COLORS[s]
+                              : "bg-muted text-muted-foreground hover:text-foreground"
+                          }`}
+                        >
+                          {STATUS_LABELS[s]}
+                        </button>
+                      )
+                    )}
                   </div>
                 ) : (
-                  <button
-                    onClick={() => {
-                      setCommentDraft(meta.comment);
-                      setEditingComment(true);
-                    }}
-                    className="w-full text-left rounded-lg border border-dashed border-border px-3 py-2 text-sm text-muted-foreground hover:border-accent/50 hover:text-foreground transition-colors"
+                  <span
+                    className={`inline-flex items-center rounded-full px-2.5 py-1 text-xs font-medium ${STATUS_COLORS[meta.status]}`}
                   >
-                    {meta.comment || "Click to add a note..."}
-                  </button>
+                    {STATUS_LABELS[meta.status]}
+                  </span>
+                )}
+              </div>
+
+              {/* Notes */}
+              <div>
+                <p className="text-xs text-muted-foreground mb-1.5">Notes</p>
+                {isAdmin ? (
+                  editingComment ? (
+                    <div className="space-y-2">
+                      <textarea
+                        value={commentDraft}
+                        onChange={(e) => setCommentDraft(e.target.value)}
+                        rows={3}
+                        className="w-full rounded-lg border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50 resize-y"
+                        placeholder="Add a note about this claim..."
+                        autoFocus
+                      />
+                      <div className="flex gap-2">
+                        <button
+                          onClick={() => {
+                            onCommentChange(commentDraft);
+                            setEditingComment(false);
+                          }}
+                          className="rounded-lg bg-accent px-3 py-1.5 text-sm font-medium text-accent-foreground hover:opacity-90"
+                        >
+                          Save
+                        </button>
+                        <button
+                          onClick={() => {
+                            setCommentDraft(meta.comment);
+                            setEditingComment(false);
+                          }}
+                          className="rounded-lg bg-muted px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground"
+                        >
+                          Cancel
+                        </button>
+                      </div>
+                    </div>
+                  ) : (
+                    <button
+                      onClick={() => {
+                        setCommentDraft(meta.comment);
+                        setEditingComment(true);
+                      }}
+                      className="w-full text-left rounded-lg border border-dashed border-border px-3 py-2 text-sm text-muted-foreground hover:border-accent/50 hover:text-foreground transition-colors"
+                    >
+                      {meta.comment || "Click to add a note..."}
+                    </button>
+                  )
+                ) : (
+                  <p className="text-sm text-muted-foreground">
+                    {meta.comment || "—"}
+                  </p>
                 )}
               </div>
 
