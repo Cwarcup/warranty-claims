@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import type { Claim, ClaimMeta, ClaimStatus } from "../types";
+import type { Claim, ClaimMeta, ClaimStatus, TravelersStatus } from "../types";
 
 const STATUS_COLORS: Record<ClaimStatus, string> = {
   open: "bg-blue-100 text-blue-800 dark:bg-blue-900/30 dark:text-blue-300",
@@ -16,6 +16,13 @@ const STATUS_LABELS: Record<ClaimStatus, string> = {
   open: "Open",
   "in-progress": "In Progress",
   resolved: "Resolved",
+};
+
+const TRAVELERS_STATUS_COLORS: Record<TravelersStatus, string> = {
+  "In Progress":
+    "bg-amber-100 text-amber-800 dark:bg-amber-900/30 dark:text-amber-300",
+  Denied: "bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300",
+  New: "bg-gray-100 text-gray-800 dark:bg-gray-900/30 dark:text-gray-300",
 };
 
 interface ClaimCardProps {
@@ -63,6 +70,20 @@ export function ClaimCard({
             <span className="inline-flex items-center rounded-full bg-muted px-2 py-0.5 text-xs text-muted-foreground">
               {claim.location}
             </span>
+            {claim.travelersStatus && (
+              <span
+                className={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ${TRAVELERS_STATUS_COLORS[claim.travelersStatus]}`}
+              >
+                {claim.travelersStatus === "In Progress"
+                  ? "Investigating"
+                  : claim.travelersStatus}
+              </span>
+            )}
+            {claim.disputed && (
+              <span className="inline-flex items-center rounded-full bg-purple-100 text-purple-800 dark:bg-purple-900/30 dark:text-purple-300 px-2 py-0.5 text-xs font-medium">
+                Disputed
+              </span>
+            )}
           </div>
           <p className="text-sm truncate">{claim.description}</p>
         </div>
@@ -110,6 +131,51 @@ export function ClaimCard({
                 </p>
                 <p className="text-sm">{claim.description}</p>
               </div>
+
+              {/* Travelers Response */}
+              {claim.travelersItemNumber && (
+                <div className="rounded-lg border border-border bg-muted/50 p-3 space-y-2">
+                  <p className="text-xs font-medium text-muted-foreground">
+                    Travelers Response (Item #{claim.travelersItemNumber})
+                  </p>
+                  {claim.travelersPosition && (
+                    <div className="flex items-start gap-2">
+                      <span
+                        className={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium shrink-0 ${
+                          claim.travelersStatus
+                            ? TRAVELERS_STATUS_COLORS[claim.travelersStatus]
+                            : "bg-muted text-muted-foreground"
+                        }`}
+                      >
+                        {claim.travelersPosition}
+                      </span>
+                    </div>
+                  )}
+                  {claim.travelersComments && (
+                    <p className="text-sm text-muted-foreground">
+                      {claim.travelersComments}
+                    </p>
+                  )}
+                  {claim.disputed && (
+                    <div className="flex items-center gap-1.5 text-sm text-purple-700 dark:text-purple-300">
+                      <svg
+                        className="h-4 w-4"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        strokeWidth={1.5}
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"
+                        />
+                      </svg>
+                      Disputed - additional info sent to Travelers
+                    </div>
+                  )}
+                </div>
+              )}
 
               {/* Status */}
               <div>
