@@ -16,7 +16,12 @@
       "location": "Garage",
       "description": "garage closet door not pained on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=I%2bXvXm5azN8%2fBl1u7EVRMA%3d%3d",
-      "imageFilename": "claim-1865245.jpg"
+      "imageFilename": "claim-1865245.jpg",
+      "travelersItemNumber": 51,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope of Warranty Policy",
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865244",
@@ -27,7 +32,12 @@
       "location": "Garage",
       "description": "garage utility closet door not pained on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=ukV%2f5joG%2ffOcxbRNt6nzPg%3d%3d",
-      "imageFilename": "claim-1865244.jpg"
+      "imageFilename": "claim-1865244.jpg",
+      "travelersItemNumber": 51,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope of Warranty Policy",
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865243",
@@ -38,7 +48,12 @@
       "location": "Garage entrance",
       "description": "garage door not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=CCsOJUU5UMunoWBfjY7mNQ%3d%3d",
-      "imageFilename": "claim-1865243.jpg"
+      "imageFilename": "claim-1865243.jpg",
+      "travelersItemNumber": 52,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865242",
@@ -49,7 +64,12 @@
       "location": "Jr. Bathroom",
       "description": "jr bathroom door not pained on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=%2bm0kUrdmeqn%2bkp2JanL%2beQ%3d%3d",
-      "imageFilename": "claim-1865242.jpg"
+      "imageFilename": "claim-1865242.jpg",
+      "travelersItemNumber": 53,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865241",
@@ -60,7 +80,12 @@
       "location": "Jr. Bedroom",
       "description": "jr bedroom door not pained on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=G5isD0o4nlgaUixzqx4lTw%3d%3d",
-      "imageFilename": "claim-1865241.jpg"
+      "imageFilename": "claim-1865241.jpg",
+      "travelersItemNumber": 56,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865239",
@@ -71,7 +96,12 @@
       "location": "Main floor closet",
       "description": "main floor upstairs closet doors not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=zq9s1PGjSOWubwcoQdOxdg%3d%3d",
-      "imageFilename": "claim-1865239.jpg"
+      "imageFilename": "claim-1865239.jpg",
+      "travelersItemNumber": 54,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865238",
@@ -82,7 +112,12 @@
       "location": "Top floor",
       "description": "washer/dryer doors not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=FIH24J8EG8PTeF5oVRTROQ%3d%3d",
-      "imageFilename": "claim-1865238.jpg"
+      "imageFilename": "claim-1865238.jpg",
+      "travelersItemNumber": 55,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865237",
@@ -93,7 +128,12 @@
       "location": "Secondary bedroom upstairs",
       "description": "second upstairs bedroom door not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=BAtBZKT8KQjS3zQqC6mT2w%3d%3d",
-      "imageFilename": "claim-1865237.jpg"
+      "imageFilename": "claim-1865237.jpg",
+      "travelersItemNumber": 56,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865236",
@@ -104,7 +144,12 @@
       "location": "Secondary washroom upstairs",
       "description": "upstairs bathroom door not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=8AoNDxO3GLJHCOaMEdccQA%3d%3d",
-      "imageFilename": "claim-1865236.jpg"
+      "imageFilename": "claim-1865236.jpg",
+      "travelersItemNumber": 57,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865235",
@@ -115,7 +160,12 @@
       "location": "Master bedroom upstairs",
       "description": "master bathroom door not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=SJEWIj7NcGYk8o4RsrjmCA%3d%3d",
-      "imageFilename": "claim-1865235.jpg"
+      "imageFilename": "claim-1865235.jpg",
+      "travelersItemNumber": 58,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865234",
@@ -126,7 +176,12 @@
       "location": "Master bedroom upstairs",
       "description": "Master Bedroom door not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=%2f2%2f9%2fJ5cCfFTh1QdUf%2fwUw%3d%3d",
-      "imageFilename": "claim-1865234.jpg"
+      "imageFilename": "claim-1865234.jpg",
+      "travelersItemNumber": 58,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1865233",
@@ -137,7 +192,12 @@
       "location": "Master bedroom upstairs",
       "description": "Master Bedroom closet doors not painted on all 6 sides.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=T%2bq9fiyU6%2bB5pj74xP%2bBeQ%3d%3d",
-      "imageFilename": "claim-1865233.jpg"
+      "imageFilename": "claim-1865233.jpg",
+      "travelersItemNumber": 58,
+      "travelersStatus": "New",
+      "travelersPosition": null,
+      "travelersComments": "Missing or incomplete work is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1866306",
@@ -148,7 +208,12 @@
       "location": "Front door entrance",
       "description": "NHWS- Floors Springy & / or Shake. Front door entry - Movement occurring is beyond what is considered normal.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=4cAlgB%2f%2fZ7%2fAqSUSPHMyIg%3d%3d",
-      "imageFilename": "claim-1866306.jpg"
+      "imageFilename": "claim-1866306.jpg",
+      "travelersItemNumber": 59,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope - Concern related to Common Property",
+      "travelersComments": "Concern related to Common Property. Please notify your Strata and the Strata can place the claim with Travelers under the Common Property Warranty.",
+      "disputed": true
     },
     {
       "id": "1866305",
@@ -159,7 +224,12 @@
       "location": "Jr. Bathroom",
       "description": "NHWS- Floors Springy & / or Shake - Downstairs Bathroom - All structural members including beams and joists must be sized, installed and fastened in accordance with the Building Code. Movement occurring is beyond what is considered normal.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=S1LfUyo%2fBF1UV6O%2fPlfUnQ%3d%3d",
-      "imageFilename": "claim-1866305.jpg"
+      "imageFilename": "claim-1866305.jpg",
+      "travelersItemNumber": 60,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866304",
@@ -170,7 +240,12 @@
       "location": "Living room",
       "description": "In Front of TV - All structural members including beams and joists must be sized, installed and fastened in accordance with the Building Code. Movement occurring is beyond what is considered normal.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=ReGV9Y%2bLTmgSt866xZ7GgQ%3d%3d",
-      "imageFilename": "claim-1866304.jpg"
+      "imageFilename": "claim-1866304.jpg",
+      "travelersItemNumber": 61,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866303",
@@ -181,7 +256,12 @@
       "location": "Living room sliding door trim",
       "description": "Cracked Window Trim. The crack to the window drip appears to have been caused by the screws for blind installation. The window trim is cracked, which may affect the aesthetics and potentially lead to further deterioration if not addressed. It is recommended to repair or replace the damaged trim to prevent possible moisture intrusion and maintain the integrity of the window area.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=J8dHf5O0QB0iANI7SRYn6Q%3d%3d",
-      "imageFilename": "claim-1866303.jpg"
+      "imageFilename": "claim-1866303.jpg",
+      "travelersItemNumber": 62,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope - Concern related to Common Property",
+      "travelersComments": "Concern related to Common Property. Please notify your Strata and the Strata can place the claim with Travelers under the Common Property Warranty.",
+      "disputed": true
     },
     {
       "id": "1866309",
@@ -192,7 +272,12 @@
       "location": "Upstairs secondary bedroom",
       "description": "Door ding in secondary bedroom.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=omwBpU%2f9q7pt7zVNTae7mw%3d%3d",
-      "imageFilename": "claim-1866309.jpg"
+      "imageFilename": "claim-1866309.jpg",
+      "travelersItemNumber": 63,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Damage reported after occupation. Please provide your Pre-Delivery form and we will reassess coverage if item is listed.",
+      "disputed": false
     },
     {
       "id": "1866308",
@@ -203,7 +288,12 @@
       "location": "Kitchen corner beside dishwasher.",
       "description": "Laminate flooring, separating at joints. The laminate flooring throughout the inspected area is exhibiting separation at the joints, which may affect the overall appearance and functionality of the flooring. This condition may result from changes in humidity, improper installation, or subfloor issues. It is recommended to consult with a flooring specialist to assess the extent of the problem and determine if resealing, reinstallation, or replacement is necessary to prevent further damage and ensure the flooring's longevity. Regular monitoring and maintaining stable humidity levels can help mitigate future issues.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=%2bQ2yzCIoZ4h0RKtDvhn9iA%3d%3d",
-      "imageFilename": "claim-1866308.jpg"
+      "imageFilename": "claim-1866308.jpg",
+      "travelersItemNumber": 64,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866307",
@@ -214,7 +304,12 @@
       "location": "Kitchen floor in front of dishwasher",
       "description": "NHWS- Floors Springy & / or Shake. In front of Dishwasher - Movement occurring is beyond what is considered normal.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=MWsarRgkJY2zYDUwHUTtUw%3d%3d",
-      "imageFilename": "claim-1866307.jpg"
+      "imageFilename": "claim-1866307.jpg",
+      "travelersItemNumber": 65,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866316",
@@ -225,7 +320,12 @@
       "location": "Master bedroom door",
       "description": "door chipped by repair performed by Daryl to resolve door not closing issue.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=xDW74hj9ZpKdNo29QuBZaQ%3d%3d",
-      "imageFilename": "claim-1866316.jpg"
+      "imageFilename": "claim-1866316.jpg",
+      "travelersItemNumber": 66,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope of Warranty Policy",
+      "travelersComments": "Damage reported after occupancy is not covered under the policy.",
+      "disputed": true
     },
     {
       "id": "1866317",
@@ -236,7 +336,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=vqppuhpbVEF%2bj5%2bbGKq%2bAw%3d%3d",
-      "imageFilename": "claim-1866317.jpg"
+      "imageFilename": "claim-1866317.jpg",
+      "travelersItemNumber": 67,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details including: location of paint defect, nature of the defect (e.g., peeling, blistering, drips, uneven coverage, missed areas)Sub Standard Painted Surface alone does not constitute sufficient particulars to evaluate the claim under the warranty policy.",
+      "disputed": false
     },
     {
       "id": "1866318",
@@ -247,7 +352,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=CIlzknz%2bnWpetLxx8tKNXw%3d%3d",
-      "imageFilename": "claim-1866318.jpg"
+      "imageFilename": "claim-1866318.jpg",
+      "travelersItemNumber": 67,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details including: location of paint defect, nature of the defect (e.g., peeling, blistering, drips, uneven coverage, missed areas)Sub Standard Painted Surface alone does not constitute sufficient particulars to evaluate the claim under the warranty policy.",
+      "disputed": false
     },
     {
       "id": "1866319",
@@ -258,7 +368,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface. Large paint drip.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=sNvz5M%2bQ4lt2KXZuEO%2bP8w%3d%3d",
-      "imageFilename": "claim-1866319.jpg"
+      "imageFilename": "claim-1866319.jpg",
+      "travelersItemNumber": 68,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866320",
@@ -269,7 +384,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=8ePejaqJSqCTGkz7UdvXwg%3d%3d",
-      "imageFilename": "claim-1866320.jpg"
+      "imageFilename": "claim-1866320.jpg",
+      "travelersItemNumber": 69,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866321",
@@ -280,7 +400,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=9UxPBVQpa0QTMlJ4fXstgw%3d%3d",
-      "imageFilename": "claim-1866321.jpg"
+      "imageFilename": "claim-1866321.jpg",
+      "travelersItemNumber": 69,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866322",
@@ -291,7 +416,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=zTfnego5qe8uBTv90aEC3g%3d%3d",
-      "imageFilename": "claim-1866322.jpg"
+      "imageFilename": "claim-1866322.jpg",
+      "travelersItemNumber": 69,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866323",
@@ -302,7 +432,12 @@
       "location": "Upstairs office",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=3OQgFh3gP64NA3XqVRmWxA%3d%3d",
-      "imageFilename": "claim-1866323.jpg"
+      "imageFilename": "claim-1866323.jpg",
+      "travelersItemNumber": 69,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866324",
@@ -313,7 +448,12 @@
       "location": "Over launder room door",
       "description": "Over launder room door. Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=99xJRGm4K%2f0e74BHj8wptA%3d%3d",
-      "imageFilename": "claim-1866324.jpg"
+      "imageFilename": "claim-1866324.jpg",
+      "travelersItemNumber": 50,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866325",
@@ -324,7 +464,12 @@
       "location": "Over launder room door",
       "description": "Over launder room door. Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks. Paint drips and tool marks over trim.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=3kIFWzFMhB2VWvrkf4TmmA%3d%3d",
-      "imageFilename": "claim-1866325.jpg"
+      "imageFilename": "claim-1866325.jpg",
+      "travelersItemNumber": 50,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866326",
@@ -335,7 +480,12 @@
       "location": "Primary ensuite bathroom entrance",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks. Paint drips and tool marks over trim.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=waqjWkMcAxOwYmzvppFSGQ%3d%3d",
-      "imageFilename": "claim-1866326.jpg"
+      "imageFilename": "claim-1866326.jpg",
+      "travelersItemNumber": 49,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866327",
@@ -346,7 +496,12 @@
       "location": "Primary ensuite bathroom entrance",
       "description": "Sub standard painted surface. A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks. Paint drips and tool marks over trim.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=b21JZj0AzQHn%2bL9%2b1HNfYQ%3d%3d",
-      "imageFilename": "claim-1866327.jpg"
+      "imageFilename": "claim-1866327.jpg",
+      "travelersItemNumber": 49,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866328",
@@ -357,7 +512,12 @@
       "location": "Upper staircase walls",
       "description": "A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=sxCv3DrumE10cxmOGUpMzw%3d%3d",
-      "imageFilename": "claim-1866328.jpg"
+      "imageFilename": "claim-1866328.jpg",
+      "travelersItemNumber": 48,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - no defect noted",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details of defect noted.",
+      "disputed": true
     },
     {
       "id": "1866329",
@@ -368,7 +528,12 @@
       "location": "Upper staircase walls",
       "description": "A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks. Tape is peeling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=SxzGK6XVOiW%2f99dgRnxE0Q%3d%3d",
-      "imageFilename": "claim-1866329.jpg"
+      "imageFilename": "claim-1866329.jpg",
+      "travelersItemNumber": 48,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - no defect noted",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details of defect noted.",
+      "disputed": true
     },
     {
       "id": "1866330",
@@ -379,7 +544,12 @@
       "location": "Upper staircase walls",
       "description": "A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks. Tape is peeling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=hQEUYHAF4Sl33kXLzlDsYQ%3d%3d",
-      "imageFilename": "claim-1866330.jpg"
+      "imageFilename": "claim-1866330.jpg",
+      "travelersItemNumber": 48,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - no defect noted",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details of defect noted.",
+      "disputed": true
     },
     {
       "id": "1866331",
@@ -390,7 +560,12 @@
       "location": "Kitchen/dining room walls",
       "description": "A properly painted surface (has consistent colour, appearance and cover) shall be provided on every exposed surface where a painted finish is specified and free from tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=zNjGwAbq%2fJlkfX0oicTtuQ%3d%3d",
-      "imageFilename": "claim-1866331.jpg"
+      "imageFilename": "claim-1866331.jpg",
+      "travelersItemNumber": 47,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - no defect noted",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details of defect noted.",
+      "disputed": true
     },
     {
       "id": "1866343",
@@ -401,7 +576,12 @@
       "location": "Upstairs office.",
       "description": "Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=eKQlWOC%2fQ9dLb%2b%2b5rfgROA%3d%3d",
-      "imageFilename": "claim-1866343.jpg"
+      "imageFilename": "claim-1866343.jpg",
+      "travelersItemNumber": 46,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866344",
@@ -412,7 +592,12 @@
       "location": "Kitchen/dining room walls",
       "description": "Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=5ZRu6v9oEuWgXKDO4y%2fAlQ%3d%3d",
-      "imageFilename": "claim-1866344.jpg"
+      "imageFilename": "claim-1866344.jpg",
+      "travelersItemNumber": 45,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866345",
@@ -423,7 +608,12 @@
       "location": "lower stairway",
       "description": "Drywall -Minor Corner Crack - Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=LVFTEc9Z%2fMmMffpV1Vu7KQ%3d%3d",
-      "imageFilename": "claim-1866345.jpg"
+      "imageFilename": "claim-1866345.jpg",
+      "travelersItemNumber": 44,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866346",
@@ -434,7 +624,12 @@
       "location": "lower stairway",
       "description": "Drywall -Minor Corner Crack - Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=NlQP0HYfc%2bwz6fwwwnmOmg%3d%3d",
-      "imageFilename": "claim-1866346.jpg"
+      "imageFilename": "claim-1866346.jpg",
+      "travelersItemNumber": 44,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866347",
@@ -445,7 +640,12 @@
       "location": "lower stairway",
       "description": "Drywall -Minor Corner Crack - Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=7b6U0qMpNbIvh7Pu99ExoA%3d%3d",
-      "imageFilename": "claim-1866347.jpg"
+      "imageFilename": "claim-1866347.jpg",
+      "travelersItemNumber": 44,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866348",
@@ -456,7 +656,12 @@
       "location": "lower stairway",
       "description": "Drywall -Minor Corner Crack - Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=xDcJJDmOiWf8EjlMxAM%2fRQ%3d%3d",
-      "imageFilename": "claim-1866348.jpg"
+      "imageFilename": "claim-1866348.jpg",
+      "travelersItemNumber": 44,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866349",
@@ -467,7 +672,12 @@
       "location": "lower stairway",
       "description": "Drywall -Minor Corner Crack - Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=bOWjpjtrfvck4ReCQBVCiw%3d%3d",
-      "imageFilename": "claim-1866349.jpg"
+      "imageFilename": "claim-1866349.jpg",
+      "travelersItemNumber": 44,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1866350",
@@ -478,7 +688,12 @@
       "location": "Living room",
       "description": "Drywall Seems-Bulging / Trowel Marks. Drywall surface blemishes including blisters in taped joints, trowel marks, excess joint compound and dents or gouges Conditions such as cracks, blisters in taped joints, trowel marks, excess joint compound, dents or tool gouges, that are readily noticeable",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=5DEbWI12S0BQ%2bw63ba4oJw%3d%3d",
-      "imageFilename": "claim-1866350.jpg"
+      "imageFilename": "claim-1866350.jpg",
+      "travelersItemNumber": 43,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876557",
@@ -489,7 +704,12 @@
       "location": "Upstairs secondary bathroom ceiling",
       "description": "Upstairs secondary Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=1ZGOR4kRwEjormQAhvjC4w%3d%3d",
-      "imageFilename": "claim-1876557.jpg"
+      "imageFilename": "claim-1876557.jpg",
+      "travelersItemNumber": 42,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876558",
@@ -500,7 +720,12 @@
       "location": "Upstairs secondary bathroom ceiling",
       "description": "Upstairs secondary Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=jaxO3PnQDOS2Iut2C5mxVg%3d%3d",
-      "imageFilename": "claim-1876558.jpg"
+      "imageFilename": "claim-1876558.jpg",
+      "travelersItemNumber": 42,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876559",
@@ -511,7 +736,12 @@
       "location": "Top of staircase Ceiling",
       "description": "Top of staircase Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=pou3SM8%2fgmp4lxcD5afxLQ%3d%3d",
-      "imageFilename": "claim-1876559.jpg"
+      "imageFilename": "claim-1876559.jpg",
+      "travelersItemNumber": 41,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876560",
@@ -522,7 +752,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=eZcyyBH4e8Fr1uskrYAEpQ%3d%3d",
-      "imageFilename": "claim-1876560.jpg"
+      "imageFilename": "claim-1876560.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876561",
@@ -533,7 +768,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=XwdsZlKOwlQ9wX3PZQvPyg%3d%3d",
-      "imageFilename": "claim-1876561.jpg"
+      "imageFilename": "claim-1876561.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876562",
@@ -544,7 +784,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=MCc7Nu3aR3dm5eAxxkDoFQ%3d%3d",
-      "imageFilename": "claim-1876562.jpg"
+      "imageFilename": "claim-1876562.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876563",
@@ -555,7 +800,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=zM1yiWtKZy7GgPdkFOlSqg%3d%3d",
-      "imageFilename": "claim-1876563.jpg"
+      "imageFilename": "claim-1876563.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876564",
@@ -566,7 +816,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=qtMl54SachkXBc6ALEYXvg%3d%3d",
-      "imageFilename": "claim-1876564.jpg"
+      "imageFilename": "claim-1876564.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876565",
@@ -577,7 +832,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=EVCBxcyEuHkgKJDMezIxEA%3d%3d",
-      "imageFilename": "claim-1876565.jpg"
+      "imageFilename": "claim-1876565.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876566",
@@ -588,7 +848,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=cf1FQBUZyizlUgfKn0jxGg%3d%3d",
-      "imageFilename": "claim-1876566.jpg"
+      "imageFilename": "claim-1876566.jpg",
+      "travelersItemNumber": 73,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876567",
@@ -599,7 +864,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=xKK5AD59LONeSkOMQpSEoA%3d%3d",
-      "imageFilename": "claim-1876567.jpg"
+      "imageFilename": "claim-1876567.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876568",
@@ -610,7 +880,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=4N04StsmT72NnK90my4ZtA%3d%3d",
-      "imageFilename": "claim-1876568.jpg"
+      "imageFilename": "claim-1876568.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876569",
@@ -621,7 +896,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=ZG4QUkqbtHeGy6X%2f40LBFQ%3d%3d",
-      "imageFilename": "claim-1876569.jpg"
+      "imageFilename": "claim-1876569.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876570",
@@ -632,7 +912,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Not sanded at all and very rough.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=7EuxEaI1FPyLoWPz8Wmo5A%3d%3d",
-      "imageFilename": "claim-1876570.jpg"
+      "imageFilename": "claim-1876570.jpg",
+      "travelersItemNumber": 71,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876571",
@@ -643,7 +928,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=JoEM1j%2b5ZBgeVKKrh8OZhg%3d%3d",
-      "imageFilename": "claim-1876571.jpg"
+      "imageFilename": "claim-1876571.jpg",
+      "travelersItemNumber": 73,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876572",
@@ -654,7 +944,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "En Suite Bathroom Ceiling Finishings - nail pops.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=brE4lYefIqwz90knvNolFQ%3d%3d",
-      "imageFilename": "claim-1876572.jpg"
+      "imageFilename": "claim-1876572.jpg",
+      "travelersItemNumber": 72,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876573",
@@ -665,7 +960,12 @@
       "location": "Primary En Suite Bathroom Ceiling",
       "description": "Primary En Suite Bathroom Ceiling Finishings - Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Tool marks.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=UqGt%2fKCq9W9%2bVvYxhWeDcw%3d%3d",
-      "imageFilename": "claim-1876573.jpg"
+      "imageFilename": "claim-1876573.jpg",
+      "travelersItemNumber": 73,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876668",
@@ -676,7 +976,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=h4qJYVhPJFnA90AxNPd8Uw%3d%3d",
-      "imageFilename": "claim-1876668.jpg"
+      "imageFilename": "claim-1876668.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876669",
@@ -687,7 +992,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Oxp5CjH7ZF7bUW3QxSvahg%3d%3d",
-      "imageFilename": "claim-1876669.jpg"
+      "imageFilename": "claim-1876669.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876670",
@@ -698,7 +1008,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Tools marks present.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=lWy2p2wSHduNDplfSHZHeA%3d%3d",
-      "imageFilename": "claim-1876670.jpg"
+      "imageFilename": "claim-1876670.jpg",
+      "travelersItemNumber": 75,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876671",
@@ -709,7 +1024,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=%2bqTkE%2bsu0aWZrPq2e584tQ%3d%3d",
-      "imageFilename": "claim-1876671.jpg"
+      "imageFilename": "claim-1876671.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876672",
@@ -720,7 +1040,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=CXcgbkpUnwIknxkNBHeHwg%3d%3d",
-      "imageFilename": "claim-1876672.jpg"
+      "imageFilename": "claim-1876672.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876673",
@@ -731,7 +1056,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=ZZXHivsDcuyUfZrRmooWWQ%3d%3d",
-      "imageFilename": "claim-1876673.jpg"
+      "imageFilename": "claim-1876673.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876674",
@@ -742,7 +1072,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=nf7yNL8lKfjY%2b%2bU8IdnYpA%3d%3d",
-      "imageFilename": "claim-1876674.jpg"
+      "imageFilename": "claim-1876674.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876675",
@@ -753,7 +1088,12 @@
       "location": "Other",
       "description": "Primary bedroom over bed. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=xPHiuZ3SRRl8cLvywIseDw%3d%3d",
-      "imageFilename": "claim-1876675.jpg"
+      "imageFilename": "claim-1876675.jpg",
+      "travelersItemNumber": 36,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876676",
@@ -764,7 +1104,12 @@
       "location": "Other",
       "description": "Primary bedroom over bed. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=zuiH7V3YufVqKvFxzWQQgA%3d%3d",
-      "imageFilename": "claim-1876676.jpg"
+      "imageFilename": "claim-1876676.jpg",
+      "travelersItemNumber": 36,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876677",
@@ -775,7 +1120,12 @@
       "location": "Upper Stairs",
       "description": "Top of stairs by the laundry room. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=esfkiVbdHZHtLKU4wHs0pg%3d%3d",
-      "imageFilename": "claim-1876677.jpg"
+      "imageFilename": "claim-1876677.jpg",
+      "travelersItemNumber": 37,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876678",
@@ -786,7 +1136,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=QUQ%2f4YsaC92SZSnRhY7ZLw%3d%3d",
-      "imageFilename": "claim-1876678.jpg"
+      "imageFilename": "claim-1876678.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876679",
@@ -797,7 +1152,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=cjGU0xkTyPsT2NqVh7FpPA%3d%3d",
-      "imageFilename": "claim-1876679.jpg"
+      "imageFilename": "claim-1876679.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876680",
@@ -808,7 +1168,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=9Q4%2fkom79ivrnde1I6Ao6w%3d%3d",
-      "imageFilename": "claim-1876680.jpg"
+      "imageFilename": "claim-1876680.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876681",
@@ -819,7 +1184,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=U5wDwoQzmwp7tzNb3Nekig%3d%3d",
-      "imageFilename": "claim-1876681.jpg"
+      "imageFilename": "claim-1876681.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876682",
@@ -830,7 +1200,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly. Nail pops as well.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=UrPv2JtDSB5AObA9ljtMLQ%3d%3d",
-      "imageFilename": "claim-1876682.jpg"
+      "imageFilename": "claim-1876682.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876683",
@@ -841,7 +1216,12 @@
       "location": "Other",
       "description": "Bottom floor bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=hKVIq4ls%2bn92KlYrDlQUBQ%3d%3d",
-      "imageFilename": "claim-1876683.jpg"
+      "imageFilename": "claim-1876683.jpg",
+      "travelersItemNumber": 38,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876684",
@@ -852,7 +1232,12 @@
       "location": "Bath 2",
       "description": "Shared bathroom upstairs. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly. Painting is completely uneven.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=w3SRmBgyh7L95jhfpJ7hXA%3d%3d",
-      "imageFilename": "claim-1876684.jpg"
+      "imageFilename": "claim-1876684.jpg",
+      "travelersItemNumber": 39,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876685",
@@ -863,7 +1248,12 @@
       "location": "Bath 2",
       "description": "Shared bathroom upstairs. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly. Painting is completely uneven.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=p3g34XqlM%2fcxqOWN%2bQ%2fdKA%3d%3d",
-      "imageFilename": "claim-1876685.jpg"
+      "imageFilename": "claim-1876685.jpg",
+      "travelersItemNumber": 39,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876686",
@@ -874,7 +1264,12 @@
       "location": "Upper Stairs",
       "description": "top of staircase by master bedroom entrance. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=tjSwd8SxhyD6b6ar3%2bPrOA%3d%3d",
-      "imageFilename": "claim-1876686.jpg"
+      "imageFilename": "claim-1876686.jpg",
+      "travelersItemNumber": 40,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876687",
@@ -885,7 +1280,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=CyxNFDZHTajgbqcZP1M%2b6g%3d%3d",
-      "imageFilename": "claim-1876687.jpg"
+      "imageFilename": "claim-1876687.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876688",
@@ -896,7 +1296,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Xu8qj%2bto8jPHkW73HztlJQ%3d%3d",
-      "imageFilename": "claim-1876688.jpg"
+      "imageFilename": "claim-1876688.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876689",
@@ -907,7 +1312,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Rough patch and not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=CndIf8w1KI8papVBp76%2bEw%3d%3d",
-      "imageFilename": "claim-1876689.jpg"
+      "imageFilename": "claim-1876689.jpg",
+      "travelersItemNumber": 35,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1876690",
@@ -918,7 +1328,12 @@
       "location": "Ensuite",
       "description": "Primary En Suite Bathroom. Ceiling Finishings Sub Standard. There are imperfections in the drywall or imperfections in the paint finishes. Recommend correction by filling and or sanding and repainting. Tools marks present.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=bYxNUCcyvpfpSy2HQQDPhQ%3d%3d",
-      "imageFilename": "claim-1876690.jpg"
+      "imageFilename": "claim-1876690.jpg",
+      "travelersItemNumber": 75,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886264",
@@ -929,7 +1344,12 @@
       "location": "Dining Room",
       "description": "dining room drywall seam. NHWS - Drywall Seems-Bulging",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=50CHt6IljLKjmjoVZ56qEw%3d%3d",
-      "imageFilename": "claim-1886264.jpg"
+      "imageFilename": "claim-1886264.jpg",
+      "travelersItemNumber": 1,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886265",
@@ -940,7 +1360,12 @@
       "location": "Dining Room",
       "description": "dining root nail pop",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=s3PC1y8EeA6FXEfiMdGYPA%3d%3d",
-      "imageFilename": "claim-1886265.jpg"
+      "imageFilename": "claim-1886265.jpg",
+      "travelersItemNumber": 2,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886266",
@@ -951,7 +1376,12 @@
       "location": "Dining Room",
       "description": "dining room drywall seam. NHWS - Drywall Seems-Bulging",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=sUNSIO4SI948L9JmeN0QuQ%3d%3d",
-      "imageFilename": "claim-1886266.jpg"
+      "imageFilename": "claim-1886266.jpg",
+      "travelersItemNumber": 1,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886267",
@@ -962,7 +1392,12 @@
       "location": "Dining Room",
       "description": "row of nail pops in dining room/kitchen",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=eL3zwivpQ5vepU8v641yZw%3d%3d",
-      "imageFilename": "claim-1886267.jpg"
+      "imageFilename": "claim-1886267.jpg",
+      "travelersItemNumber": 76,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886268",
@@ -973,7 +1408,12 @@
       "location": "Dining Room",
       "description": "nail pops",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Kw0EHPqhmOHcF2KNmaIvRg%3d%3d",
-      "imageFilename": "claim-1886268.jpg"
+      "imageFilename": "claim-1886268.jpg",
+      "travelersItemNumber": 2,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886269",
@@ -984,7 +1424,12 @@
       "location": "Upper Stairs",
       "description": "cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=5E%2f8U9ELQiya5jOss%2foJCA%3d%3d",
-      "imageFilename": "claim-1886269.jpg"
+      "imageFilename": "claim-1886269.jpg",
+      "travelersItemNumber": 3,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Please provide more information and specific location of the defect noted.",
+      "disputed": true
     },
     {
       "id": "1886270",
@@ -995,7 +1440,12 @@
       "location": "Upper Stairs",
       "description": "cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=SkoiifeEoSRpdwX5jmyvfg%3d%3d",
-      "imageFilename": "claim-1886270.jpg"
+      "imageFilename": "claim-1886270.jpg",
+      "travelersItemNumber": 3,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Please provide more information and specific location of the defect noted.",
+      "disputed": true
     },
     {
       "id": "1886271",
@@ -1006,7 +1456,12 @@
       "location": "Living Room",
       "description": "nail pop living room behind couch",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=S2AJYcuTMMOxVRiIEOaVjw%3d%3d",
-      "imageFilename": "claim-1886271.jpg"
+      "imageFilename": "claim-1886271.jpg",
+      "travelersItemNumber": 4,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886345",
@@ -1017,7 +1472,12 @@
       "location": "Kitchen",
       "description": "Minor cracks at the corners of doors and windows in walls. Appeared to be the result of settling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=YL25VIy1TIw9RMAWlv0SpA%3d%3d",
-      "imageFilename": "claim-1886345.jpg"
+      "imageFilename": "claim-1886345.jpg",
+      "travelersItemNumber": 5,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886346",
@@ -1028,7 +1488,12 @@
       "location": "Kitchen",
       "description": "Minor cracks at the corners of doors and windows in walls. Appeared to be the result of settling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=DnTNwZEBp465WrIyzM28Gg%3d%3d",
-      "imageFilename": "claim-1886346.jpg"
+      "imageFilename": "claim-1886346.jpg",
+      "travelersItemNumber": 5,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886347",
@@ -1039,7 +1504,12 @@
       "location": "Jr Bedroom",
       "description": "Minor cracks at the corners of doors and windows in walls. Appeared to be the result of settling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=mDK54fd2ASZKASmvvMQbKw%3d%3d",
-      "imageFilename": "claim-1886347.jpg"
+      "imageFilename": "claim-1886347.jpg",
+      "travelersItemNumber": 6,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886348",
@@ -1050,7 +1520,12 @@
       "location": "Jr Bedroom",
       "description": "Minor cracks at the corners of doors and windows in walls. Appeared to be the result of settling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=hWhxFQSkJix8BLpsn%2bdlWg%3d%3d",
-      "imageFilename": "claim-1886348.jpg"
+      "imageFilename": "claim-1886348.jpg",
+      "travelersItemNumber": 6,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886349",
@@ -1061,7 +1536,12 @@
       "location": "Jr Bedroom",
       "description": "Minor cracks at the corners of doors and windows in walls. Appeared to be the result of settling.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=iZTFt6anGysKmUhHU1bO%2fA%3d%3d",
-      "imageFilename": "claim-1886349.jpg"
+      "imageFilename": "claim-1886349.jpg",
+      "travelersItemNumber": 6,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886350",
@@ -1072,7 +1552,12 @@
       "location": "Upper Stairs",
       "description": "upstairs office walls Drywall Screw Pops.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=fC5U0IrwSpsQbplfVe0o7A%3d%3d",
-      "imageFilename": "claim-1886350.jpg"
+      "imageFilename": "claim-1886350.jpg",
+      "travelersItemNumber": 7,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886351",
@@ -1083,7 +1568,12 @@
       "location": "Kitchen",
       "description": "Kitchen wall Drywall Screw Pops. Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw. pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=s96wxcDjf1kFMsK40wvqlA%3d%3d",
-      "imageFilename": "claim-1886351.jpg"
+      "imageFilename": "claim-1886351.jpg",
+      "travelersItemNumber": 8,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886352",
@@ -1094,7 +1584,12 @@
       "location": "Lower Stairs",
       "description": "Lower stairs wall Drywall Screw Pops. Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw. pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=HuE5wWAVYkMnldXbgdd9IQ%3d%3d",
-      "imageFilename": "claim-1886352.jpg"
+      "imageFilename": "claim-1886352.jpg",
+      "travelersItemNumber": 9,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886353",
@@ -1105,7 +1600,12 @@
       "location": "Lower Stairs",
       "description": "Lower stairs wall Drywall Screw Pops. Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw. pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=fvPLEvPgduV%2b1gWglPFuEg%3d%3d",
-      "imageFilename": "claim-1886353.jpg"
+      "imageFilename": "claim-1886353.jpg",
+      "travelersItemNumber": 9,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886354",
@@ -1116,7 +1616,12 @@
       "location": "Lower Stairs",
       "description": "Lower stairs wall Drywall Screw Pops. Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw. pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=PJNUtAKyT%2bNZbSkIhd0FNw%3d%3d",
-      "imageFilename": "claim-1886354.jpg"
+      "imageFilename": "claim-1886354.jpg",
+      "travelersItemNumber": 9,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886355",
@@ -1127,7 +1632,12 @@
       "location": "Lower Stairs",
       "description": "Lower stairs wall cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=4CZgixCTstDo08p2PtxL%2fg%3d%3d",
-      "imageFilename": "claim-1886355.jpg"
+      "imageFilename": "claim-1886355.jpg",
+      "travelersItemNumber": 10,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886356",
@@ -1138,7 +1648,12 @@
       "location": "Lower Stairs",
       "description": "Lower stairs wall Drywall Screw Pops. Interior finished drywall (excluding garages and unfinished areas), shall be free from nail/screw. pops that have broken the finished surface or are in a readily noticeable location. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=8NGBDVfAYaS8DreYf8Y6Og%3d%3d",
-      "imageFilename": "claim-1886356.jpg"
+      "imageFilename": "claim-1886356.jpg",
+      "travelersItemNumber": 9,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886386",
@@ -1149,7 +1664,12 @@
       "location": "Upper Stairs",
       "description": "Primary bedroom left of window screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=9NdI%2bF3SZ96nmcb1Uxxing%3d%3d",
-      "imageFilename": "claim-1886386.jpg"
+      "imageFilename": "claim-1886386.jpg",
+      "travelersItemNumber": 11,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886387",
@@ -1160,7 +1680,12 @@
       "location": "Entry",
       "description": "Over front door screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=gB2M4bo1L2PRbsy1OCy9uA%3d%3d",
-      "imageFilename": "claim-1886387.jpg"
+      "imageFilename": "claim-1886387.jpg",
+      "travelersItemNumber": 12,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886388",
@@ -1171,7 +1696,12 @@
       "location": "Other",
       "description": "hallway screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Wgjqo%2bAtBYTi4hYIn1YmbA%3d%3d",
-      "imageFilename": "claim-1886388.jpg"
+      "imageFilename": "claim-1886388.jpg",
+      "travelersItemNumber": 12,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886389",
@@ -1182,7 +1712,12 @@
       "location": "Jr Bedroom",
       "description": "jr bed/garage entry screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=hfBtHSRP5lmO7bQ24NoriA%3d%3d",
-      "imageFilename": "claim-1886389.jpg"
+      "imageFilename": "claim-1886389.jpg",
+      "travelersItemNumber": 13,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886390",
@@ -1193,7 +1728,12 @@
       "location": "Jr Bedroom",
       "description": "jr bed/garage entry screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=HY86oRh%2bcSdyis2QoUI90A%3d%3d",
-      "imageFilename": "claim-1886390.jpg"
+      "imageFilename": "claim-1886390.jpg",
+      "travelersItemNumber": 13,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886391",
@@ -1204,7 +1744,12 @@
       "location": "Jr Bedroom",
       "description": "jr bed/garage entry screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=8K6X9lSl5nKox%2bS6EE9kcA%3d%3d",
-      "imageFilename": "claim-1886391.jpg"
+      "imageFilename": "claim-1886391.jpg",
+      "travelersItemNumber": 13,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886392",
@@ -1215,7 +1760,12 @@
       "location": "Jr Bedroom",
       "description": "jr bed/garage entry screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=mm35ckTxqAIvPq7903qsJQ%3d%3d",
-      "imageFilename": "claim-1886392.jpg"
+      "imageFilename": "claim-1886392.jpg",
+      "travelersItemNumber": 13,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886393",
@@ -1226,7 +1776,12 @@
       "location": "Jr Bedroom",
       "description": "jr bed/garage entry screw pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=dv8vI9CXqGbzIZ5sMHH%2fww%3d%3d",
-      "imageFilename": "claim-1886393.jpg"
+      "imageFilename": "claim-1886393.jpg",
+      "travelersItemNumber": 13,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886394",
@@ -1237,7 +1792,12 @@
       "location": "Upper Stairs",
       "description": "Upstairs office ceiling/wall joint separation - often referred to as truss uplift. The junction of inside wall finishes and ceilings should be constructed to minimize excessive cracking or wall/ceiling separation. Truss uplift is a term often applied to a condition where the bottom chord of wood roof trusses bow or arch upward causing the ceiling drywall that is fastened to it to become separated from the wall finish. Differences in the temperature and moisture content between the top and bottom members of trusses can cause seasonal movement of the bottom chord. The condition cannot always be prevented but can be controlled by good design, good attic venting and by floating the ceiling drywall near partitions. Similar damage can occur due to downward movement of the wall as a result of settlement of interior wall footings or shrinkage of the framing lumber.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=wjHMU9KZieUVbl6KeUDijg%3d%3d",
-      "imageFilename": "claim-1886394.jpg"
+      "imageFilename": "claim-1886394.jpg",
+      "travelersItemNumber": 14,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886395",
@@ -1248,7 +1808,12 @@
       "location": "Upper Stairs",
       "description": "Upstairs office ceiling/wall joint separation - often referred to as truss uplift. The junction of inside wall finishes and ceilings should be constructed to minimize excessive cracking or wall/ceiling separation. Truss uplift is a term often applied to a condition where the bottom chord of wood roof trusses bow or arch upward causing the ceiling drywall that is fastened to it to become separated from the wall finish. Differences in the temperature and moisture content between the top and bottom members of trusses can cause seasonal movement of the bottom chord. The condition cannot always be prevented but can be controlled by good design, good attic venting and by floating the ceiling drywall near partitions. Similar damage can occur due to downward movement of the wall as a result of settlement of interior wall footings or shrinkage of the framing lumber.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=4yd07ZzwHdIF2RLn3FqFlg%3d%3d",
-      "imageFilename": "claim-1886395.jpg"
+      "imageFilename": "claim-1886395.jpg",
+      "travelersItemNumber": 14,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886396",
@@ -1259,7 +1824,12 @@
       "location": "Upper Stairs",
       "description": "Upstairs office ceiling/wall joint separation - often referred to as truss uplift. The junction of inside wall finishes and ceilings should be constructed to minimize excessive cracking or wall/ceiling separation. Truss uplift is a term often applied to a condition where the bottom chord of wood roof trusses bow or arch upward causing the ceiling drywall that is fastened to it to become separated from the wall finish. Differences in the temperature and moisture content between the top and bottom members of trusses can cause seasonal movement of the bottom chord. The condition cannot always be prevented but can be controlled by good design, good attic venting and by floating the ceiling drywall near partitions. Similar damage can occur due to downward movement of the wall as a result of settlement of interior wall footings or shrinkage of the framing lumber.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=gnJq8kfP30hetf%2bYl%2fnQjg%3d%3d",
-      "imageFilename": "claim-1886396.jpg"
+      "imageFilename": "claim-1886396.jpg",
+      "travelersItemNumber": 14,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886397",
@@ -1270,7 +1840,12 @@
       "location": "Upper Stairs",
       "description": "Primary bedroom ceiling/wall joint separation - often referred to as truss uplift. The junction of inside wall finishes and ceilings should be constructed to minimize excessive cracking or wall/ceiling separation. Truss uplift is a term often applied to a condition where the bottom chord of wood roof trusses bow or arch upward causing the ceiling drywall that is fastened to it to become separated from the wall finish. Differences in the temperature and moisture content between the top and bottom members of trusses can cause seasonal movement of the bottom chord. The condition cannot always be prevented but can be controlled by good design, good attic venting and by floating the ceiling drywall near partitions. Similar damage can occur due to downward movement of the wall as a result of settlement of interior wall footings or shrinkage of the framing lumber.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=aNN5GUUIm7jsrFdfPkOalg%3d%3d",
-      "imageFilename": "claim-1886397.jpg"
+      "imageFilename": "claim-1886397.jpg",
+      "travelersItemNumber": 15,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886398",
@@ -1281,7 +1856,12 @@
       "location": "Upper Stairs",
       "description": "Primary bedroom over bed ceiling/wall joint separation - often referred to as truss uplift. The junction of inside wall finishes and ceilings should be constructed to minimize excessive cracking or wall/ceiling separation. Truss uplift is a term often applied to a condition where the bottom chord of wood roof trusses bow or arch upward causing the ceiling drywall that is fastened to it to become separated from the wall finish. Differences in the temperature and moisture content between the top and bottom members of trusses can cause seasonal movement of the bottom chord. The condition cannot always be prevented but can be controlled by good design, good attic venting and by floating the ceiling drywall near partitions. Similar damage can occur due to downward movement of the wall as a result of settlement of interior wall footings or shrinkage of the framing lumber.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=XLU4G%2bpsnBhwzJUbms0WXQ%3d%3d",
-      "imageFilename": "claim-1886398.jpg"
+      "imageFilename": "claim-1886398.jpg",
+      "travelersItemNumber": 15,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886399",
@@ -1292,7 +1872,12 @@
       "location": "Kitchen",
       "description": "Gap between cabinets and ceilings or walls. During the inspection, a noticeable gap was observed between the cabinets and the ceiling or walls in the kitchen. This could potentially indicate settling or improper installation. It is recommended to have a qualified contractor assess the situation and provide necessary repairs to ensure proper alignment and aesthetics.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=RfGET%2faReZrkO%2fdycwsH6Q%3d%3d",
-      "imageFilename": "claim-1886399.jpg"
+      "imageFilename": "claim-1886399.jpg",
+      "travelersItemNumber": 16,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886400",
@@ -1303,7 +1888,12 @@
       "location": "Kitchen",
       "description": "Gap between cabinets and ceilings or walls. During the inspection, a noticeable gap was observed between the cabinets and the ceiling or walls in the kitchen. This could potentially indicate settling or improper installation. It is recommended to have a qualified contractor assess the situation and provide necessary repairs to ensure proper alignment and aesthetics.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=do1ZddLpXWCcXMZOHw2w7Q%3d%3d",
-      "imageFilename": "claim-1886400.jpg"
+      "imageFilename": "claim-1886400.jpg",
+      "travelersItemNumber": 16,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886401",
@@ -1314,7 +1904,12 @@
       "location": "Upper Stairs",
       "description": "Secondary bathroom upstairs Tub / Shower Glazing Damaged. Visible chipping, which may lead to water infiltration and potential damage to the underlying material. It is recommended to repair the chipped area with an appropriate bathtub repair kit to prevent further deterioration. Consider consulting a professional if the damage extends beyond the visible surface. Damage has been there since we moved in.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=t5eDBE9sBHbCmvV3uIqaoQ%3d%3d",
-      "imageFilename": "claim-1886401.jpg"
+      "imageFilename": "claim-1886401.jpg",
+      "travelersItemNumber": 17,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Damage reported after occupation. Please provide your Pre-Delivery form and we will reassess coverage if item is listed.",
+      "disputed": false
     },
     {
       "id": "1886402",
@@ -1325,7 +1920,12 @@
       "location": "Upper Stairs",
       "description": "Upstairs office Outlet or Switch Cover Plate Not Flush with wall. In finished areas, electrical receptacles/switches shall be installed so that the cover plates are generally flush with the adjacent wall surface. Electrical fixtures not meeting the Acceptable Performance/Condition must be rectified.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=syULIYf0UiLBaSlUP0YtWg%3d%3d",
-      "imageFilename": "claim-1886402.jpg"
+      "imageFilename": "claim-1886402.jpg",
+      "travelersItemNumber": 18,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886403",
@@ -1336,7 +1936,12 @@
       "location": "Dining Room",
       "description": "dining room stairs crew pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=WG26nga8LJgrU%2bWFd8RETg%3d%3d",
-      "imageFilename": "claim-1886403.jpg"
+      "imageFilename": "claim-1886403.jpg",
+      "travelersItemNumber": 19,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886404",
@@ -1347,7 +1952,12 @@
       "location": "Dining Room",
       "description": "dining room stairs crew pop from ceilings. Protruding screw heads visible at the time of the inspection appeared to be the result of contact with moisture. After the source of moisture is located and corrected, protruding screws should be removed, drywall re-fastened and the drywall finished to match the existing wall surfaces. All work should be performed by a qualified drywall or painting contractor.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=MVKvbsr3%2bIGHsljdaWQ%2bBg%3d%3d",
-      "imageFilename": "claim-1886404.jpg"
+      "imageFilename": "claim-1886404.jpg",
+      "travelersItemNumber": 19,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886405",
@@ -1358,7 +1968,12 @@
       "location": "Dining Room",
       "description": "Settlement cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=kaIi8VOHcxz4oh2LDGxb4w%3d%3d",
-      "imageFilename": "claim-1886405.jpg"
+      "imageFilename": "claim-1886405.jpg",
+      "travelersItemNumber": 20,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886406",
@@ -1369,7 +1984,12 @@
       "location": "Dining Room",
       "description": "poor paint job",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=pSF%2fwW7pckUhP4FLGZvXew%3d%3d",
-      "imageFilename": "claim-1886406.jpg"
+      "imageFilename": "claim-1886406.jpg",
+      "travelersItemNumber": 21,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Insufficient information to determine warrantability. Please provide specific details including: location of paint defect, nature of the defect (e.g., peeling, blistering, drips, uneven coverage, missed areas)Poor paint job alone does not constitute sufficient particulars to evaluate the claim under the warranty policy.",
+      "disputed": true
     },
     {
       "id": "1886407",
@@ -1380,7 +2000,12 @@
       "location": "Dining Room",
       "description": "wall screw not filled in properly",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=bNi38URqcnMmt5615jfd3w%3d%3d",
-      "imageFilename": "claim-1886407.jpg"
+      "imageFilename": "claim-1886407.jpg",
+      "travelersItemNumber": 22,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886408",
@@ -1391,7 +2016,12 @@
       "location": "Kitchen",
       "description": "Settlement cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=fSGJtpHYl%2fkQXBhDlsHxYw%3d%3d",
-      "imageFilename": "claim-1886408.jpg"
+      "imageFilename": "claim-1886408.jpg",
+      "travelersItemNumber": 23,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886409",
@@ -1402,7 +2032,12 @@
       "location": "Kitchen",
       "description": "Settlement cracks",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=nnCFNWSQZ7idxwSN%2fxJKgg%3d%3d",
-      "imageFilename": "claim-1886409.jpg"
+      "imageFilename": "claim-1886409.jpg",
+      "travelersItemNumber": 23,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886410",
@@ -1413,7 +2048,12 @@
       "location": "Upper Stairs",
       "description": "upstairs primary bathroom screw pop",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=XPTmGLKvsO2U58jQJhkTCg%3d%3d",
-      "imageFilename": "claim-1886410.jpg"
+      "imageFilename": "claim-1886410.jpg",
+      "travelersItemNumber": 24,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886411",
@@ -1424,7 +2064,12 @@
       "location": "Upper Stairs",
       "description": "bathroom water damage, no sealing around this area",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=ql3ZKVwa3KGMl6C5UCZf%2bA%3d%3d",
-      "imageFilename": "claim-1886411.jpg"
+      "imageFilename": "claim-1886411.jpg",
+      "travelersItemNumber": 25,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886412",
@@ -1435,7 +2080,12 @@
       "location": "Upper Stairs",
       "description": "primary bathroom grout missing",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=laCM7g0rpmN0FH6EBst5jA%3d%3d",
-      "imageFilename": "claim-1886412.jpg"
+      "imageFilename": "claim-1886412.jpg",
+      "travelersItemNumber": 26,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886413",
@@ -1446,7 +2096,12 @@
       "location": "Upper Stairs",
       "description": "primary bathroom grout missing",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=0bfFm%2fyvxlQ53Z6VOE2%2b2Q%3d%3d",
-      "imageFilename": "claim-1886413.jpg"
+      "imageFilename": "claim-1886413.jpg",
+      "travelersItemNumber": 26,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886414",
@@ -1457,7 +2112,12 @@
       "location": "Upper Stairs",
       "description": "small holes, wasn't filled in and sanded. Primary bedroom above closet.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=1zOjgu8TePpwHQ6tALYbSQ%3d%3d",
-      "imageFilename": "claim-1886414.jpg"
+      "imageFilename": "claim-1886414.jpg",
+      "travelersItemNumber": 27,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886415",
@@ -1468,7 +2128,12 @@
       "location": "Upper Stairs",
       "description": "primary bedroom above windows screw not filled in",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=oYsaskfU4UN%2beAUZYN19tg%3d%3d",
-      "imageFilename": "claim-1886415.jpg"
+      "imageFilename": "claim-1886415.jpg",
+      "travelersItemNumber": 28,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886416",
@@ -1479,7 +2144,12 @@
       "location": "Upper Stairs",
       "description": "primary bedroom above windows screw not filled in",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=OaIXUhp7yomwF5ss4KvPRg%3d%3d",
-      "imageFilename": "claim-1886416.jpg"
+      "imageFilename": "claim-1886416.jpg",
+      "travelersItemNumber": 28,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886417",
@@ -1490,7 +2160,12 @@
       "location": "Upper Stairs",
       "description": "primary bedroom light switch no sanding, didn't fill properly",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=DAQ0msRgvZVfQBG35xvkTg%3d%3d",
-      "imageFilename": "claim-1886417.jpg"
+      "imageFilename": "claim-1886417.jpg",
+      "travelersItemNumber": 29,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886418",
@@ -1501,7 +2176,12 @@
       "location": "Upper Stairs",
       "description": "upstairs office bedroom screw pops",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=OH9CW7uoDDWJru8Hblth0Q%3d%3d",
-      "imageFilename": "claim-1886418.jpg"
+      "imageFilename": "claim-1886418.jpg",
+      "travelersItemNumber": 30,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1886420",
@@ -1512,7 +2192,12 @@
       "location": "Upper Stairs",
       "description": "upstairs office bedroom screw pops",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Pvb6WBxsFQ849KBMVQbZEA%3d%3d",
-      "imageFilename": "claim-1886420.jpg"
+      "imageFilename": "claim-1886420.jpg",
+      "travelersItemNumber": 30,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1895737",
@@ -1523,7 +2208,12 @@
       "location": "Bath 2",
       "description": "Plumbing - Toilet - Elongated/AA-2186. Since the day we moved in I've noticed this back speckle on the front of the toilet. I thought it was just dirty, but I haven't been able to get it off all year. This was is cosmetic damage caused during install or storage.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=nKrpoiHNjiaXAh4nn7cYkQ%3d%3d",
-      "imageFilename": "claim-1895737.jpg"
+      "imageFilename": "claim-1895737.jpg",
+      "travelersItemNumber": 31,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Not Warrantable - see comments",
+      "travelersComments": "Damage reported after occupation. Please provide your Pre-Delivery form and we will reassess coverage if item is listed.",
+      "disputed": false
     },
     {
       "id": "1895736",
@@ -1534,7 +2224,12 @@
       "location": "Kitchen",
       "description": "Appliances - Dishwasher - GBT640SMPES. Not sure if this is expected, but the dishwasher always have a lot of water in the food trap. It never fully drains. I didn't think anything of it until a neighbour mentioned they didn't have this issue.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=4J3CLSaqFxvgPSDxPkl%2fEA%3d%3d",
-      "imageFilename": "claim-1895736.jpg"
+      "imageFilename": "claim-1895736.jpg",
+      "travelersItemNumber": 32,
+      "travelersStatus": "Denied",
+      "travelersPosition": "Outside Scope of Warranty Policy",
+      "travelersComments": "Appliances are not covered under the New Home Warranty as they carry their own manufacturer's warranty. Please contact the appliance supplier/manufacturer directly to submit your claim.",
+      "disputed": false
     },
     {
       "id": "1896299",
@@ -1545,7 +2240,12 @@
       "location": "Dining Room",
       "description": "Screw pop on ceiling near staircase. Ceiling not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=6ducC18SWgORDQCiL%2biWiw%3d%3d",
-      "imageFilename": "claim-1896299.jpg"
+      "imageFilename": "claim-1896299.jpg",
+      "travelersItemNumber": 33,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1896298",
@@ -1556,7 +2256,12 @@
       "location": "Dining Room",
       "description": "Screw pop on ceiling near staircase.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=Tq%2fofuddlm4HZdJZy60KbQ%3d%3d",
-      "imageFilename": "claim-1896298.jpg"
+      "imageFilename": "claim-1896298.jpg",
+      "travelersItemNumber": 33,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1896297",
@@ -1567,7 +2272,12 @@
       "location": "Dining Room",
       "description": "Screw pop on ceiling near staircase.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=%2fQjNararUxw7YJ2w8EGMjw%3d%3d",
-      "imageFilename": "claim-1896297.jpg"
+      "imageFilename": "claim-1896297.jpg",
+      "travelersItemNumber": 33,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1896296",
@@ -1578,7 +2288,12 @@
       "location": "Dining Room",
       "description": "Ceiling not sanded properly.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=xXfwaq0u5EWvLlmxAH%2b2yw%3d%3d",
-      "imageFilename": "claim-1896296.jpg"
+      "imageFilename": "claim-1896296.jpg",
+      "travelersItemNumber": 34,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     },
     {
       "id": "1896295",
@@ -1589,7 +2304,12 @@
       "location": "Dining Room",
       "description": "Screw pop on ceiling near staircase.",
       "referenceDocUrl": "https://hc.homeinformationpackages.com/Homeowner/GenerateDocument?documentid=EYS0YLawpDGN9duK%2fnR%2f5g%3d%3d",
-      "imageFilename": "claim-1896295.jpg"
+      "imageFilename": "claim-1896295.jpg",
+      "travelersItemNumber": 33,
+      "travelersStatus": "In Progress",
+      "travelersPosition": "Investigation Required by Builder",
+      "travelersComments": "",
+      "disputed": false
     }
   ]
 }

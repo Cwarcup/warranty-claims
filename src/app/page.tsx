@@ -1,4 +1,5 @@
 import claimsData from "../data/claims.json";
+import type { Claim } from "../types";
 import { ClaimsDashboard } from "../components/claims-dashboard";
 
 export default function Home() {
@@ -17,7 +18,7 @@ export default function Home() {
           </div>
         </div>
       </header>
-      <ClaimsDashboard claims={claimsData.claims} />
+      <ClaimsDashboard claims={claimsData.claims as Claim[]} />
     </main>
   );
 }
